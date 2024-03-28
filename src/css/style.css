@@ -1,3 +1,7 @@
+@import url('./header.css');
+@import url('./hero.css');
+@import url('./footer.css');
+
 :root {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
